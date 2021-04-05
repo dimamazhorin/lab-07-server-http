@@ -1,4 +1,4 @@
-// Copyright 2021 ak-kuznetsov <a.kuznetsov2701@mail.ru>
+// Copyright 2020 dima <dmitrymazhorinjr@gmail.com>
 
 #include <URL.hpp>
 #include <utility>
